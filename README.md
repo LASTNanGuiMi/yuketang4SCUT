@@ -24,10 +24,10 @@
 
 ### 1. 获取代码并安装依赖
 
-当前可运行版本位于 `master` 分支：
+当前可运行版本位于 `main` 分支：
 
 ```powershell
-git clone --branch master https://github.com/LASTNanGuiMi/yuketang4SCUT.git
+git clone --branch main https://github.com/LASTNanGuiMi/yuketang4SCUT.git
 Set-Location yuketang4SCUT
 python -m pip install -r requirements.txt
 ```
